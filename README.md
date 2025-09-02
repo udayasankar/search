@@ -1,6 +1,8 @@
 # search
 # Search Implementations
 
+AI Search: https://blog.wilsonl.in/search-engine/
+
 <table>
   <thead>
     <tr>
